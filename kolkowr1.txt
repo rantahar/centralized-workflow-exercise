@@ -1,0 +1,13 @@
+Ingredients:
+- hot water
+- lemon
+- tea bag
+- sugar
+- a mug
+
+Instructions:
+- boil water
+- put a tea bag in a mug
+- pour water there
+- add sugar
+- add lemon
