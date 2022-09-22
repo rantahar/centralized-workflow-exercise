@@ -1,0 +1,14 @@
+Cake Recipe
+
+Very simple cake recipe for your enjoyment.
+
+Ingredients:
+
+1 cup flour
+1 cup sugar
+2 eggs
+
+Instructions:
+
+Whisk ingredients together.
+Bake for some time in good temperature.
