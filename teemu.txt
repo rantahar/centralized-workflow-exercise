@@ -1,0 +1,2 @@
+developers hate this one simple git trick
+git rebase -i (because people make mistakes and change history)
